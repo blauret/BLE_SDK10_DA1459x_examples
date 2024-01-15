@@ -6,7 +6,7 @@ The available devices in the DA1459x family are:
 
 - [DA14592](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy)
 
-For information about the DA1459x platform and how to bring up your development kit, please refer to the [Getting started User Manual](https://lpccs-docs.renesas.com/um-b-090-da1469x_getting_started/index.html)
+For information about the DA1459x platform and how to bring up your development kit, please refer to the [Getting started User Manual](https://lpccs-docs.renesas.com/um-b-166-da1459x_getting_started/index.html)
 
 ## Example usage
 
