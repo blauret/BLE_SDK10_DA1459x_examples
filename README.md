@@ -4,7 +4,7 @@ This is the repository storing example for the [DA1459x family](https://www.rene
 
 The available devices in the DA1459x family are:
 
-- [DA14592](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy)
+- [DA14592](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy/da14592-smartbond-multi-core-bluetooth-le-52-soc-embedded-flash)
 
 For information about the DA1459x platform and how to bring up your development kit, please refer to the [Getting started User Manual](https://lpccs-docs.renesas.com/um-b-166-da1459x_getting_started/index.html)
 
